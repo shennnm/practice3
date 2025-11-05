@@ -1,0 +1,500 @@
+   22  python3 driver.py
+   23  make clean
+   24  make all
+   25  make all
+   26  python3 driver.py
+   27  git add . 
+   28  git commit -m "JKSDFHKJSD"
+   29  git push --force
+   30  make clean
+   31  make all
+   32  python3 driver.py
+   33  python3 driver.py
+   34  make clean
+   35  make all
+   36  make clean
+   37  make all
+   38  make clean
+   39  make all
+   40  make clean
+   41  make clean
+   42  make all
+   43  make clean
+   44  make all
+   45  python3 driver.py
+   46  make clean
+   47  make all
+   48  python3 driver.py
+   49  make clean
+   50  make all
+   51  python3 driver.py
+   52  make clean
+   53  make all
+   54  python3 driver.py
+   55  make clean
+   56  make all
+   57  python3 driver.py
+   58  make clean
+   59  make all
+   60  python3 driver.py
+   61  make clean
+   62  make all
+   63  python3 driver.py
+   64  make clean
+   65  make all
+   66  python3 driver.py
+   67  make clean
+   68  make all
+   69  python3 driver.py
+   70  make clean
+   71  make all
+   72  make clean
+   73  make all
+   74  python3 driver.py
+   75  git add . 
+   76  git commit -m "j"
+   77  git push
+   78  git push force
+   79  git force push
+   80  git add .
+   81  git commit -m "f"
+   82  git push -- force
+   83  git push --force
+   84  python3 driver.py
+   85  echo "set history save on" > ~/.gdbinit
+   86  make
+   87  ls
+   88  ls
+   89  ls
+   90  cd ~
+   91  cwd
+   92  pwd
+   93  ls
+   94  cd ~
+   95  pwd
+   96  cd `~`
+   97  ls
+   98  touch ~/.gdbinit
+   99  ls
+  100  ls -a ~
+  101  git clone https://github.com/shennnm/practice1.git
+  102  make clean
+  103  make
+  104  ls
+  105  cd practice1
+  106  make clean
+  107  make all
+  108  make clean
+  109  ls
+  110  cd
+  111  ls
+  112  vim ~/.gdbinit
+  113  vim ~/.gdbinit
+  114  git clone git@github.com:shennnm/practice.git
+  115  ls
+  116  git clone https://github.com/shennnm/practice.git
+  117  git clone https://github.com/shennnm/practice.git
+  118  git clone https://github.com/shennnm/practice.git
+  119  make tests
+  120  make test
+  121  make tests
+  122  make clean
+  123  make check
+  124  gdb make
+  125  make debug
+  126  make clean
+  127  make debug
+  128  make gdb
+  129  gdb 
+  130  make clean
+  131  make debug
+  132  gdb mini_ci
+  133  make clean
+  134  make all
+  135  make clean
+  136  make check
+  137  make clean
+  138  make debug
+  139  gdb mini_ci
+  140  make clean
+  141  make check
+  142  ls -l mini_ci_reference
+  143  chmod u+x mini_ci_reference
+  144  ./mini_ci_reference --help || ./mini_ci_reference
+  145  make check
+  146  make all
+  147  make clean
+  148  make all
+  149  make clean
+  150  make check
+  151  gdb make
+  152  make debug
+  153  make clean
+  154  make debug
+  155  gdb mini_ci
+  156  make all
+  157  make clean
+  158  make check
+  159  gdb mini_ci
+  160  make clean
+  161  gdb mini_ci
+  162  make clean
+  163  make debug
+  164  gdb mini_ci
+  165  make check
+  166  make clean
+  167  make check
+  168  make debug
+  169  make clean
+  170  make debug
+  171  gdb mini_ci
+  172  make clean
+  173  make check
+  174  make clean
+  175  make debug
+  176  make clean
+  177  make debug
+  178  q
+  179  make clean
+  180  make check
+  181  make clean
+  182  make debug
+  183  make clean
+  184  make debug
+  185  make check
+  186  make debug
+  187  make clean
+  188  make debug
+  189  gdb mini_ci
+  190  make debug
+  191  gdb mini_ci
+  192  make debug
+  193  make check
+  194  make clean
+  195  make debug
+  196  make clean
+  197  make debug
+  198  make clean
+  199  make check
+  200  make clean
+  201  make debug
+  202  gdb mini_ci
+  203  make clean
+  204  make cehck
+  205  make check
+  206  make clean
+  207  make debug
+  208  gdb mini_ci
+  209  make debug
+  210  gdb mini_ci
+  211  make clea
+  212  make clean
+  213  make debug
+  214  make check
+  215  make debug
+  216  make clean
+  217  make debug
+  218  gdb mini_ci
+  219  make clean
+  220  make debug
+  221  gdb mini_ci
+  222  make clean
+  223  make 
+  224  make check
+  225  make
+  226  make chedck
+  227  make check
+  228  make 
+  229  make check
+  230  ./mini_ci_reference multi_op_err.s
+  231  make 
+  232  make check
+  233  history
+  234  make check
+  235  make debug
+  236  make clean
+  237  make debu
+  238  make debug
+  239  make clean
+  240  make 
+  241  make check
+  242  make clean
+  243  make debug
+  244  gdb mini_ci
+  245  ./mini_ci_reference multi_op_err2.s
+  246  q
+  247  make 
+  248  make check
+  249  git clone https://github.com/CS429-FA2025/shared-repo-version-c-shennnm.git
+  250  git remote -v
+  251  make
+  252  stego: trex
+  253  steg
+  254  stego
+  255  make
+  256  trex
+  257  make
+  258  .PHONY
+  259  trex
+  260  make test
+  261  make all
+  262  make clean
+  263  spinosaurus
+  264  ptera
+  265  gcc
+  266  gcc all_new
+  267  gcc testcases/all_new
+  268  make
+  269  make trex
+  270  make trex
+  271  make trex
+  272  make raptor
+  273  make stego
+  274  make trike
+  275  make trex
+  276  make -g -DDEBUG
+  277  make -DDEBUG
+  278  make -g
+  279  make gdb
+  280  make trex
+  281  make trike
+  282  make trike gdb
+  283  gdb
+  284  make trike
+  285  make ptera
+  286  make .PHONY
+  287  make ptera
+  288  make trike
+  289  make ptera
+  290  make trex
+  291  make ptera
+  292  make trike
+  293  make ptera
+  294  ls
+  295  ls -a
+  296  chmod u+x mini_ci_reference
+  297  chmod u+x mini_ci_reference
+  298  chmod u+x Makefile
+  299  make ptera
+  300  make trex
+  301  make ptera
+  302  make raptor
+  303  make trex
+  304  make trike
+  305  make trike: trex
+  306  make trex
+  307  make trike
+  308  make trike
+  309  gdb reorder.c
+  310  make trike
+  311  make ptera
+  312  make trike
+  313  gdb reorder.c
+  314  gdb ref_order
+  315  gdb ref_order
+  316  make trike
+  317  make trex
+  318  make ptera
+  319  make clean
+  320  make ptrea
+  321  make ptera
+  322  git remote -v
+  323  make trex
+  324  make stego
+  325  make trike testcases/uneven_old
+  326  make trex testcases/uneven_old
+  327  make ptera testcases/uneven_old
+  328  make spinosaurus testcases/uneven_old
+  329  make bronto
+  330  git add .
+  331  git commit -m "final commit"
+  332  git push
+  333  git --version
+  334  git push --force
+  335  cd ..
+  336  rm -rf shared-repo-version-c-shennnm/
+  337  git pull
+  338  git stash
+  339  git pull
+  340  git stash pop
+  341  make
+  342  make week 1
+  343  make
+  344  make week 1
+  345  make week1
+  346  test-hw
+  347  ./test-hw
+  348  run test-hw
+  349  ./bin/test-hw
+  350  make 
+  351  make week1
+  352  ./bin/test-hw
+  353  make week1
+  354  ./bin/test-hw
+  355  ./bin/test-hw
+  356  make
+  357  make
+  358  make week1
+  359  ./bin/test-hw
+  360  git pull
+  361  git force pull
+  362  git clone 
+  363  git clone https://github.com/CS429-FA2025/se-lab-sean-and-maggie.git
+  364  git clone https://github.com/shennnm/practice2.git
+  365  make
+  366  make 
+  367  make all
+  368  make 
+  369  make
+  370  main
+  371  make
+  372  make
+  373  ls
+  374  cd
+  375  pwd
+  376  cd ~/practice2
+  377  make
+  378  make clean
+  379  amke
+  380  make clean
+  381  make
+  382  gdb ./mini_ci
+  383  gdb basic_add.s
+  384  gdb ./mini_ci
+  385  make
+  386  make debug
+  387  make clean
+  388  make debug
+  389  gdb ./mini_ci
+  390  make
+  391  make check
+  392  make tests
+  393  make check
+  394  make
+  395  make clean
+  396  make debyg
+  397  make debug
+  398  make tests
+  399  make check
+  400  gdb mini_ci
+  401  make all
+  402  make
+  403  make debug
+  404  make clean
+  405  make debug
+  406  gdb ./mini_ci
+  407  make clean
+  408  make debug
+  409  gdb mini_ci
+  410  make clean
+  411  make debug
+  412  gdb mini_ci
+  413  make clean
+  414  make check
+  415  make check
+  416  gdb mini_ci
+  417  make debug
+  418  make clean
+  419  make debug
+  420  gdb mini_ci
+  421  make check
+  422  make 
+  423  make check
+  424  make debug
+  425  make clean
+  426  make debug
+  427  gdb mini_ci
+  428  make 
+  429  make check
+  430  make clean
+  431  make debug
+  432  gdb mini_ci
+  433  y
+  434  make clean
+  435  make debug
+  436  gdb mini_ci
+  437  make clean
+  438  make debug
+  439  gdb mini_ci
+  440  make clean
+  441  make check
+  442  make clean
+  443  make check
+  444  make
+  445  make clean
+  446  make check
+  447  mini_ci ./testcases/basic_add.s
+  448  mini_ci_reference ./testcases/basic_add.s
+  449  ./mini_ci_reference testcases/basic_add.s
+  450  make clean
+  451  ./mini_ci_reference testcases/basic_add.s
+  452  make
+  453  ./mini_ci_reference testcases/basic_add.s
+  454  make
+  455  ./mini_ci testcases/basic_add.s
+  456  ./mini_ci_reference testcases/basic_add.s
+  457  chmod +x mini_ci_reference
+  458  ./mini_ci_reference testcases/basic_add.s
+  459  make clean
+  460  make debug
+  461  gdb ./mini_ci
+  462  gdb ./mini_ci
+  463  make
+  464  make clean
+  465  make debug
+  466  gdb ./mini_ci
+  467  gdb ./mini_ci
+  468  make
+  469  make check
+  470  ./mini_ci testcases/basic_add.s
+  471  make
+  472  ./mini_ci testcases/basic_add.s
+  473  make check
+  474  gdb mini_ci
+  475  make clean
+  476  make debug
+  477  gdb mini_ci
+  478  gdb ./mini_ci
+  479  make
+  480  make check
+  481  make debug
+  482  make clean
+  483  make debug
+  484  gdb ./mini_ci
+  485  ./mini_ci_reference testcases/multi_op_err2.s
+  486  ./mini_ci testcases/multi_op_err2.s
+  487  make clean
+  488  make debug
+  489  gdb./mini_ci
+  490  gdb./mini_ci
+  491  gdb mini_ci
+  492  make
+  493  make clean
+  494  make check
+  495  history
+  496  history -o shell_logs.txt
+  497  cd
+  498  nano ~/.gdbinit
+  499  git clone https://github.com/shennnm/practice3.git
+  500  git clone https://github.com/shennnm/practice3.git
+  501  make
+  502  make check
+  503  make debug
+  504  make clean
+  505  make debyg
+  506  make debug
+  507  gdb ./mini_ci
+  508  chmod u+x mini_ci_reference
+  509  chmod u+x mini_ci_reference
+  510  chmod u+x mini_ci
+  511  make clean
+  512  make tests
+  513  make check
+  514  make clean
+  515  make debug
+  516  gdb mini_ci
+  517  make
+  518  make clean
+  519  make tests
+  520  make check
+  521  history > shell_logs.txt
